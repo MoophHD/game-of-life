@@ -8,12 +8,13 @@
   },
   "license": "MIT",
   "dependencies": {
+    "immer": "^6.0.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "babel-preset-nano-react-app": "^0.1.0",
-    "": "^2.0.0-alpha.3.2"
+    "parcel": "^2.0.0-alpha.3.2"
   },
   "babel": {
     "presets": [
